@@ -1,0 +1,16 @@
+sources:
+  - ost-export-1.0.0.tar.gz
+
+packages:
+  - ost-export.spec
+
+build_lists:
+  - name: default
+    builder: openmandriva
+    arch: x86_64
+    packages:
+      - ost-export
+    repositories:
+      - main_release
+      - main_release_updates
+      - openmandriva_restricted
