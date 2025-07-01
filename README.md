@@ -253,6 +253,16 @@ pip install -r requirements.txt
      - After export, verify that the number of attachments in the original message matches the exported version
      - Check that file sizes are roughly equivalent (small differences in size are normal due to encoding)
 
+## Donate
+
+If you find this tool useful and would like to support its development, please consider making a donation. Your support helps maintain and improve this project.
+
+### Donation Methods
+
+- **PayPal**: [Donate via PayPal](https://paypal.me/svavs)
+
+All donations are greatly appreciated and will be used to support the ongoing development and maintenance of this project.
+
 ## License
 
 This project is open source and available under the MIT License.
