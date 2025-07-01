@@ -106,7 +106,7 @@ You can also build the RPM package manually:
 
    Important: The package requires Python 3.6 or higher and pip3 for dependency installation.
    
-   # The resulting RPM will be in the RPMS directory
+   The resulting RPM will be in the RPMS directory
 
 3. Install the built package with dependencies:
    
